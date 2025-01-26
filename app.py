@@ -6,8 +6,6 @@ for nome in nomes_lista:
 
 # Aula 2 - laço de repeticao em Dicionario
 
-print("") # linha em branco
-
 nomes_dic = {"Anderson","Carlos","Jose"}
 
 for nome in nomes_dic:
