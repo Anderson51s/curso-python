@@ -11,3 +11,4 @@ def calcular_preco_combo(pizza, refrigerante):
 calcular_preco_combo(30, 25)
 
 print('Programa finalizado')
+
