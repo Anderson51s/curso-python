@@ -1,1 +1,2 @@
-Projeto curso Python
+Curso Python
+- Treinamento Automação
